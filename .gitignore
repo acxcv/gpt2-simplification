@@ -1,0 +1,6 @@
+**/gpt2env
+**/model_saves
+**/pickles
+**/plots
+simplification_gpt2_10_test_split-statedict.pt
+generated_results.pkl
